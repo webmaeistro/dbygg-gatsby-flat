@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-material",
-  "description": "GatsbyJS Material Blog theme.",
+  "name": "@webmaeistro/danielsenbygg",
+  "description": "web app repo for danib.",
   "version": "2.0.0",
-  "author": "Ruben Harutyunyan <vagr9k@gmail.com>",
+  "author": "Martin Andersen <marander@pm.me>",
   "dependencies": {
     "font-awesome": "^4.7.0",
     "gatsby": "^2.4.3",
@@ -60,9 +60,7 @@
     "stylelint-config-standard": "^18.3.0",
     "write-good": "^1.0.1"
   },
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
@@ -79,8 +77,6 @@
     "format:js": "prettier '**/*.{js,jsx}' --write"
   },
   "remarkConfig": {
-    "plugins": [
-      "remark-preset-lint-recommended"
-    ]
+    "plugins": ["remark-preset-lint-recommended"]
   }
 }

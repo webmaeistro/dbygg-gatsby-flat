@@ -4,7 +4,7 @@ Before submitting an issue or a pull request, please see which category it falls
 
 If it's a small/specific change that you need for your website, most likely it will make more sense to include it in your own codebase, since Gatsby starters are code boilerplates and not libraries.
 
-In any case, make sure to submit your feature request to [Feature Wishlist](https://github.com/Vagr9K/gatsby-material-starter/issues/58) first to check if it's currently in the works or outside of the project scope.
+In any case, make sure to submit your feature request to [Feature Wishlist](https://github.com/webmaeistro/gatsby-material-starter/issues/58) first to check if it's currently in the works or outside of the project scope.
 
 ## I have a question
 

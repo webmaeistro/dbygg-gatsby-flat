@@ -7,10 +7,10 @@ about: Something isn't working as expected? Here is the right place to report.
   Please include as much useful information as possible.
 
   Useful Links:
-  - Starter Documentation: https://github.com/Vagr9K/gatsby-material-starter/
+  - Starter Documentation: https://github.com/webmaeistro/gatsby-material-starter/
   - Gatsby Documentation: https://www.gatsbyjs.org/docs/
 
-  Before opening a new issue, please search existing issues https://github.com/Vagr9K/gatsby-material-starter/issues/
+  Before opening a new issue, please search existing issues https://github.com/webmaeistro/gatsby-material-starter/issues/
 -->
 
 ## Description
