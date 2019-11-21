@@ -3,11 +3,10 @@ const config = {
   siteTitleShort: "D-B Horten", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Danielsen Bygg Horten", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://cqe53.sse.codesandbox.io", // Domain of your website without pathPrefix.
+  siteUrl: "https://danielsen-bygg.netlify.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
-  siteDescription:
-    "Vi utfører ALT av snekkerarbeid! Lik siden og få gratis befaring ved ønske!", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "Vi utfører ALT av snekkerarbeid! Lik siden og få gratis befaring ved ønske!", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "", // FB Application ID for using app insights
   siteGATrackingID: "", // Tracking code ID for google analytics.
@@ -19,17 +18,14 @@ const config = {
   userEmail: "danielsen.bygg@gmail.com", // Email used for RSS feed's author segment
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "Horten, Vestfold, Norway", // User location to display in the author segment.
-  userAvatar:
-    "https://api.adorable.io/avatars/150/test.pnhttps://scontent.fosl3-1.fna.fbcdn.net/v/t1.0-1/p160x160/76608749_131543261594118_9127671519730728960_n.jpg?_nc_cat=107&_nc_oc=AQlNwGA6XfFhpKeqRFuTNtiaHYuuP2hJawSjExvefFUA9zEwV9W8CacDIylql6TIeT5S5RnVeiiwA5CJnkktkbge&_nc_ht=scontent.fosl3-1.fna&oh=ba923ac7ad1ca7fb49beabe731f35cb1&oe=5E4C3F38", // User avatar to display in the author segment.
-  userDescription:
-    "Danielsen Bygg ble startet opp i Oktober 2018, av snekkeren Morten Danielsen, fra Horten. Morten har god erfaring med alt som har med snekkerarbeid å gjøre. Selskapet tar på seg jobber som totalrenovering, tilbygg, tak, malejobber, og alt annet snekkerarbeid.", // User description to display in the author segment.
+  userAvatar: "https://i.imgur.com/caLpeJM.jpg", // User avatar to display in the author segment.
+  userDescription: "Danielsen Bygg ble startet opp i Oktober 2018, av snekkeren Morten Danielsen, fra Horten. Morten har god erfaring med alt som har med snekkerarbeid å gjøre. Selskapet tar på seg jobber som totalrenovering, tilbygg, tak, malejobber, og alt annet snekkerarbeid.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
-      label: "m.me/Danielsenbygghorten",
-      url:
-        "https://m.me/Danielsenbygghorten?fbclid=IwAR3QCPG97Rlxa3EhQWX9GK_KQqNFNAFWdHWHCi_D2X1wF3JKMowVWf-qupQ",
-      iconClassName: "fa fa-messenger"
+      label: "Messenger",
+      url: "https://m.me/Danielsenbygghorten?fbclid=IwAR3QCPG97Rlxa3EhQWX9GK_KQqNFNAFWdHWHCi_D2X1wF3JKMowVWf-qupQ",
+      iconClassName: "fa fa-facebook-messenger"
     },
     {
       label: "Twitter",

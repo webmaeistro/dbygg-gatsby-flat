@@ -31,7 +31,7 @@ class Footer extends Component {
           <div className="based-on">
             <h4>
               Gatsby med kjærleik. Lagd av:{" "}
-              <a href="https://github.com/webmaeistro/gatsby-material-starter">
+              <a href="https://github.com/webmaeistro/">
                 Martin Andersen
               </a>.
             </h4>
