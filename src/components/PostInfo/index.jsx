@@ -16,7 +16,7 @@ class PostInfo extends Component {
       <div className="post-info">
         <CardTitle
           avatar={<Avatar icon={<FontIcon iconClassName="fa fa-calendar" />} />}
-          title={`Published on ${moment(postNode.fields.date).format(
+          title={`Publisert den ${moment(postNode.fields.date).format(
             config.dateFormat
           )}`}
           subtitle={`${postNode.timeToRead} min read`}
@@ -29,7 +29,7 @@ class PostInfo extends Component {
             avatar={
               <Avatar icon={<FontIcon iconClassName="fa fa-folder-open" />} />
             }
-            title="In category"
+            title="I kategori"
             subtitle={post.category}
           />
         </Link>
